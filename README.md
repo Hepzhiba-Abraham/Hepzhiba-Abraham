@@ -17,7 +17,7 @@
 ## 🧠 What I Bring
 
 - 🔧 **DevOps Mastery**: CI/CD, IaC, container orchestration, cloud provisioning, and infrastructure automation  
-- 💻 **Versatile Background**: Former Software Developer (4 yrs) & QA Automation Engineer (3 yrs)  
+- 💻 **Versatile Background**: Former Software Developer & QA Automation Engineer   
 - 👨‍🏫 **Team Leadership**: Mentored engineers, led DevOps adoption, improved release efficiency  
 - 🏆 **Award-Winning Contributor**: HCL JAS Award for leading a high-impact EKS deployment  
 - 🎯 **Always Improving**: Obsessed with clean automation, observability, and efficiency  
@@ -74,10 +74,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hepzi16&show_icons=true&theme=tokyonight" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Hepzhiba-Abraham&show_icons=true&theme=tokyonight" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepzi16&layout=compact&theme=tokyonight" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepzhiba-Abraham&layout=compact&theme=tokyonight" height="200"/>
     </td>
   </tr>
 </table>
@@ -111,5 +111,5 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Hepzi16&style=flat-square&color=2E8B57" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Hepzhiba-Abraham&style=flat-square&color=2E8B57" alt="Profile views"/>
 </p>
