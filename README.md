@@ -77,7 +77,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Hepzhiba-Abraham&show_icons=true&theme=tokyonight" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepzhiba-Abraham&layout=compact&theme=tokyonight" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepzhiba-Abraham&layout=compact&theme=tokyonight&cache_seconds=1800" height="200"/>
     </td>
   </tr>
 </table>
