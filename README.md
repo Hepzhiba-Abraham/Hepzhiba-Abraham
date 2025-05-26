@@ -19,7 +19,7 @@
 - 🔧 **DevOps Mastery**: CI/CD, IaC, container orchestration, cloud provisioning, and infrastructure automation  
 - 💻 **Versatile Background**: Former Software Developer & QA Automation Engineer   
 - 👨‍🏫 **Team Leadership**: Mentored engineers, led DevOps adoption, improved release efficiency  
-- 🏆 **Award-Winning Contributor**: HCL JAS Award for leading a high-impact EKS deployment  
+- 🏆 **Award-Winning Contributor**: Honored with the HCL JAS Award for Outstanding Project Delivery
 - 🎯 **Always Improving**: Obsessed with clean automation, observability, and efficiency  
 
 ---
