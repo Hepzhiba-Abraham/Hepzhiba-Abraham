@@ -71,16 +71,14 @@
 
 ## 🚀 What I’ve Been Building
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hepzhiba-Abraham&show_icons=true&theme=tokyonight" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepzhiba-Abraham&layout=compact&theme=tokyonight&cache_seconds=1800" height="200"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Hepzhiba-Abraham&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hepzhiba-Abraham&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepzhiba-Abraham&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
